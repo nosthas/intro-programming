@@ -1,2 +1,2 @@
 # intro-programming
-Repor for Introductory Programming Course
+Repo for Introductory Programming Course
